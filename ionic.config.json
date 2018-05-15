@@ -1,0 +1,8 @@
+{
+  "name": "PEC3FGuirau",
+  "app_id": "90a4e7a8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
